@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbasa Guzana</h1>
-<h3 align="center">A passionate frontend developer from Bisho/Khayelitsha</h3>
+<h3 align="center">A passionate web developer from Bisho/Khayelitsha</h3>
 
 - 🔭 I’m currently working on [School Management System](https://github.com/Bulumko96/School-Management-System.git)
 
