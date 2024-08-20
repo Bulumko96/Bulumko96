@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mbasa Guzana</h1>
 <h3 align="center">A passionate web developer from Bisho/Khayelitsha</h3>
 
-- 🔭 I’m currently working on [Event Planner](https://github.com/Bulumko96/Event-Planner.git)
+- 🔭 I’m currently working on [Foodies: Restaurant Management App]([https://github.com/Bulumko96/Event-Planner.git](https://github.com/Bulumko96/foodies.git))
 
 - 🌱 I’m currently learning **ReactJS, TailwindCSS, ASP.Net Core**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mbasaguzana@gmail.com**
 
-- 📄 Know about my experiences [cvlink](cvlink)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
